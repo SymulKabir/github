@@ -32,7 +32,7 @@ Hi <username>! You've successfully authenticated...
 ```
 If yes → key works.
 
-#### Step 5 — Optional: Make it easy for future commands
+#### Step 5 — Make it easy for future commands
 - Start the SSH agent:
 
 ```bash
