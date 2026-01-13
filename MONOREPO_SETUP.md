@@ -43,7 +43,7 @@ git submodule add https://github.com/user/projectA.git apps/projectA
 
 ```bash
 git add .
-git commit -m "Added 5 projects as submodules"
+git commit -m "Added 2 projects as submodules"
 ```
 
 #### How to Update All Submodules
